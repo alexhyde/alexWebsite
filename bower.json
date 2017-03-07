@@ -1,0 +1,22 @@
+{
+  "name": "alexwebsite",
+  "description": "My Website",
+  "main": "app.js",
+  "authors": [
+    "Alex Hyde"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexhyde/alexWebsite",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "components-font-awesome": "^4.7.0",
+    "simple-line-icons": "^2.4.1"
+  }
+}
